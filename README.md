@@ -35,7 +35,7 @@ asi pues, seguira una forma de compilacion similar.
 
 El proyecto requiere de la libreria GLFW, GLEW y GLM.
 
-Entonces, asumiendo que estamos ne la carpeta del proyecto `../Proyecto1` tendremos el archivo
+Entonces, asumiendo que estamos ne la carpeta del proyecto `../ProyectoMedioSemestre` tendremos el archivo
 `Makefile` que contiene las instrucciones para compilar y ejecutar el programa. por lo tanto
 solo debemos ejecutar:
 ```
